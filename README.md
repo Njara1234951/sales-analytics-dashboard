@@ -1,6 +1,9 @@
 # Data Analytics Dashboard
 
 Analyse d'un jeu de données de ventes avec **Python, Pandas, Matplotlib, Seaborn** (+ Streamlit et Plotly pour la version interactive).
+
+🔗 **[Voir l'application en ligne](https://sales-analytics-dashboard-pbogqck6uglvdfw3aqmmuz.streamlit.app)**
+
 ![Dashboard](dashboard.png)
 
 ![Analyse avancée](dashboard_advanced.png)
